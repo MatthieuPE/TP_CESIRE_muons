@@ -3,7 +3,7 @@
 
 ## Informations générales
 
-**Contact responsable:** Johan Collot (collot@lpsc.in2p3.fr)  
+**Contact responsable:** Johan Collot 
 **Volume horaire:** 16h de TP  
 **Lien de présentation:** [Fiche CESIRE](https://chamilo.univ-grenoble-alpes.fr/courses/UGA2630/document/Descriptifs-des-experiences/Fiche-Cesire-Muon.pdf?cidReq=UGA2630&id_session=0&gidReq=0&gradebook=0&origin=)
 
